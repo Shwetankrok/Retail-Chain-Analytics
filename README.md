@@ -22,10 +22,23 @@
 
 ### Few Snapshots of the Analysis done
 
-![image](https://user-images.githubusercontent.com/55294349/132814156-138c8e2a-a876-4ef2-80c9-42173b138ce9.png)
-![image](https://user-images.githubusercontent.com/55294349/132814219-94965b59-34b9-40a8-b644-cd3d7b0fba87.png)
-![image](https://user-images.githubusercontent.com/55294349/132814691-c050a23c-f296-407b-8390-5dc49abae8bb.png)
-![image](https://user-images.githubusercontent.com/55294349/132814756-7e3d98e2-0cc6-4bfb-bbaf-3f8facc56632.png)
-![image](https://user-images.githubusercontent.com/55294349/132814791-ca57865a-8a4d-48fd-986f-b889fb55f781.png)
-![image](https://user-images.githubusercontent.com/55294349/132814859-416214ad-579f-4044-b6fd-76c7031d00df.png)
-![image](https://user-images.githubusercontent.com/55294349/132814910-3e7c32df-e5a3-474b-82e6-0dda12bce878.png)
+<br> ![image](https://user-images.githubusercontent.com/55294349/132814156-138c8e2a-a876-4ef2-80c9-42173b138ce9.png) </br>
+<br><b> Sales in last few weeks are very high due to Christmas, Thanks Giving, New Year for year 2010, 2011 but not high for year 2012</br></b>
+
+<br>![image](https://user-images.githubusercontent.com/55294349/132814219-94965b59-34b9-40a8-b644-cd3d7b0fba87.png) </br>
+<br><b> Stores 2,4,6,13,1420,27 and 28 have very high sales.Stores 3,5,33 and 44 have very low sales </br></b>
+
+<br>![image](https://user-images.githubusercontent.com/55294349/132814691-c050a23c-f296-407b-8390-5dc49abae8bb.png)</br>
+<br><b> Fuel price increases as the temperature increases when There is NO HOLIDAY.Fuel Price increases unevenly when there is HOLIDAY as temperature increases </br></b>
+
+<br>![image](https://user-images.githubusercontent.com/55294349/132814756-7e3d98e2-0cc6-4bfb-bbaf-3f8facc56632.png)</br>
+<br><b> As temperature increases Consumer Price Index also increases and lastly decreases for all 3 Type of stores </br></b>
+
+<br>![image](https://user-images.githubusercontent.com/55294349/132814791-ca57865a-8a4d-48fd-986f-b889fb55f781.png)</br>
+<br><b> Type A has most sales while Type C has less sales.Sales are high during summers </br></b>
+
+<br>![image](https://user-images.githubusercontent.com/55294349/132814859-416214ad-579f-4044-b6fd-76c7031d00df.png)</br>
+<br><b> It is evident that when there is Holiday the fuel prices are low.Type B fuel prices are high while Type A prices are low among all </br></b>
+
+<br>![image](https://user-images.githubusercontent.com/55294349/132814910-3e7c32df-e5a3-474b-82e6-0dda12bce878.png)</br>
+<br><b> For the year 2010 Fuel Price was low. Year 2011 the prices was very high spike with decreasing in between. For month of November and December 2012 the prices were very high compared to prices from previous years for same months.</br></b>
