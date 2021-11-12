@@ -17,8 +17,7 @@
 <br><b>4: Decomposition of Time Series (Stationary and Non Stationary) using KPSS and ADF test </br></b>
 <br><b>5: Performed baseline models like Moving Average, Weighted Moving AVerage, Exponential Moving Average and Exponential Smoothing and evaluated the results using metric</br></b>
 <br><b>6: Performed ARIMA time series model to predict monthly sales for retail chain and evaluated its diagnostics </b></br>
-<br><b>7: Performed LSTM Time series model to predict weekly sales for retail chain and evaluated the model </b></br>
-<br><b>8: Built Random Forest and XgBoost Regressor Models with HyperParameter Tuning </br></b>
+<br><b>7: Built Random Forest and XgBoost Regressor Models with HyperParameter Tuning </br></b>
 
 ### Few Snapshots of the Analysis done
 
